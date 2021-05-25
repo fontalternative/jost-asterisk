@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Jost*';
+    src: url('./variable/Jost-VariableFont_wght.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: 'Jost*';
+    src: url('./variable/Jost-Italic-VariableFont_wght.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 100 900;
+}
